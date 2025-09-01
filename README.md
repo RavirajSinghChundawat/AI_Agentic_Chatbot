@@ -2,13 +2,15 @@
 An intelligent AI chatbot developed with Python &amp; Streamlit, capable of human-like conversations, real-time task automation, and seamless interactive UI.
 
 **Table of Contents**
-[Setting Up a Python Virtual Environment
-Using Pipenv
-Using pip and venv
-Using Conda
-Running the application]
+[Setting Up a Python Virtual Environment](url)
+[Using Pipenv](url)
+[Using pip and venv](url)
+[Using Conda](url)
+[Running the application](url)
+
 **Setting Up a Python Virtual Environment**
 Using Pipenv
+
 **Install Pipenv (if not already installed):**
 pip install pipenv
 
